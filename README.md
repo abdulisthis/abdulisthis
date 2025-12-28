@@ -42,6 +42,23 @@
 
 ---
 
+## 🎓 other interests and learning:
+
+**Data Scientist – Specialization Certificate**  
+
+- Python Programming  
+- Business Statistics for Data Science  
+- Data Visualization  
+- Machine Learning  
+- Deep Learning  
+- Natural Language Processing (NLP)  
+- Computer Vision  
+- SQL  
+- Microsoft Power BI  
+- Master Programme Capstone Project  
+
+---
+
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/abdulisthis/
 - Email: abdulisthis@gmail.com
