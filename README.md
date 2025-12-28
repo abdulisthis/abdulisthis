@@ -1,19 +1,47 @@
-# Hi 👋, I'm Shaik Abdul Rahman
-
-🚀 Python Full Stack Developer | Django | HTML | CSS | JavaScript  
-💡 Passionate about building real-world web applications  
-🌱 Currently improving backend & full stack skills  
+<h1 align="center">Hi 👋, I'm Shaik Abdul Rahman</h1>
+<h3 align="center">Python Full Stack Developer | Django</h3>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 - 🔭 Working on Python & Django projects
-- 💻 Full Stack Development
-- 📚 Learning advanced Django, REST APIs & deployment
-- 🎯 Goal: Remote / On-site Full Stack Developer role
+- 🌱 Improving full stack development skills
+- 💡 Interested in backend & real-world applications
+- 🎯 Looking for entry-level / junior developer roles
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: yourmail@gmail.com
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+
+**Frontend**
+- HTML
+- CSS
+- Bootstrap
+
+**Backend**
+- Django
+- Django REST Framework (learning)
+
+**Database**
+- MySQL
+- SQLite
+
+**Tools**
+- Git & GitHub
+- VS Code
+
+---
+
+## 📌 Projects
+- 🔐 Django User Authentication System
+- 🌦️ Weather App using API
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/abdulisthis/
+- Email: abdulisthis@gmail.com
